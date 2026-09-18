@@ -72,18 +72,6 @@ The Email Address Transform completed successfully and returned email-related en
 
 The exercise demonstrated how a domain can be used as the starting point for graph-based OSINT and how publicly indexed email information can be connected to that domain.
 
-### Evidence
-
-Place screenshots in:
-
-`Maltego-Footprinting/screenshots/`
-
-Suggested captions:
-- **Figure 1:** Starting Maltego graph with `networkwalks.com`.
-- **Figure 2:** Email Address Transform execution.
-- **Figure 3:** Returned Email Address entities.
-- **Figure 4:** Transform Output showing completion.
-
 ---
 
 # 5. Module 2 — Zenmap Based Network Scanning
@@ -112,19 +100,6 @@ The practical identified:
 The Zenmap practical was completed successfully.
 
 The final host, port, and service values should be recorded directly from the completed Zenmap output and screenshots rather than being inferred.
-
-### Evidence
-
-Place screenshots in:
-
-`Zenmap-Network-Scanning/screenshots/`
-
-Suggested captions:
-- **Figure 5:** Local network configuration.
-- **Figure 6:** Zenmap target and scan profile.
-- **Figure 7:** Discovered hosts.
-- **Figure 8:** Ports and services identified.
-- **Figure 9:** Final Zenmap scan output.
 
 ---
 
