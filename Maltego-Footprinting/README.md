@@ -19,25 +19,11 @@ Perform and document an authorized OSINT/footprinting exercise using Maltego as 
 5. The transform completed successfully.
 6. The returned email-address entities were displayed in the Maltego graph and reviewed as footprinting results.
 
-> **Note:** The `@` in the Transform name is part of the Transform label; it is not a separate symbol that Maltego is required to add to the graph.
-
 ## Findings
 
 The Email Address Transform returned email-related entities associated with the authorized `networkwalks.com` domain.
 
 This demonstrates how Maltego can use graph-based relationships to connect a domain with publicly indexed email information.
-
-## Evidence
-
-Store practical screenshots in:
-
-`screenshots/`
-
-Recommended evidence:
-- Starting graph containing `networkwalks.com`.
-- Transform selection/run.
-- Final graph showing the returned Email Address entities.
-- Transform Output showing successful completion.
 
 ## Key Learning Outcomes
 
