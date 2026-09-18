@@ -28,19 +28,6 @@ The Zenmap practical was completed successfully.
 
 The exact host, port, and service observations should be transcribed from the final Zenmap scan output and screenshots so the repository does not claim values that were not actually observed.
 
-## Evidence
-
-Store Zenmap screenshots in:
-
-`screenshots/`
-
-Recommended evidence:
-- Network/IP identification.
-- Zenmap target and scan profile.
-- Host discovery results.
-- Port/service results.
-- Final scan output.
-
 ## Key Learning Outcomes
 
 - Identified a local IPv4 network and CIDR range.
