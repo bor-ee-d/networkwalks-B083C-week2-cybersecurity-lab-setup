@@ -94,7 +94,14 @@ The Zenmap practical has been completed. The module documentation records the la
 
 Screenshots and supporting evidence will be added under:
 
-`Zenmap-Network-Scanning/screenshots/`
+<img width="2116" height="1712" alt="Screenshot 2026-09-18 175911" src="https://github.com/user-attachments/assets/12d68f6f-4684-43ef-9048-d438c054af34" />
+<img width="2880" height="1800" alt="Screenshot 2026-09-18 173811" src="https://github.com/user-attachments/assets/6fa6d6c2-5fe8-43ef-acf1-4b9207be923d" />
+<img width="1356" height="1346" alt="Screenshot 2026-09-18 174151" src="https://github.com/user-attachments/assets/119ba1b8-0723-4a25-8df2-514439df64c3" />
+<img width="1368" height="1354" alt="Screenshot 2026-09-18 174333" src="https://github.com/user-attachments/assets/0118ac0b-4a9b-41d2-a88c-1e5fc5904d0b" />
+<img width="1998" height="1358" alt="Screenshot 2026-09-18 174504" src="https://github.com/user-attachments/assets/4f58e1a0-9c73-4f46-a102-4ce46d67d5b9" />
+<img width="1978" height="1532" alt="Screenshot 2026-09-18 174733" src="https://github.com/user-attachments/assets/8b6376fa-af96-46a7-b3cc-74b917a6c3ad" />
+<img width="946" height="704" alt="Screenshot 2026-09-18 175507" src="https://github.com/user-attachments/assets/cfa154bf-7060-4e5d-ba7c-12ed1c928e8b" />
+
 
 ### Key Learning
 
@@ -127,7 +134,6 @@ The completed report covering both selected modules is available in the `Report/
 
 ## Tools & Technologies
 
-- Kali Linux
 - Maltego
 - Zenmap
 - Nmap
@@ -158,15 +164,3 @@ No unauthorized systems should be targeted using the techniques or tools documen
 | Author | bor-ee-d |
 
 ---
-
-## Status
-
-- [x] Repository created
-- [x] Week 2 repository structure prepared
-- [x] Complete Maltego practical work
-- [x] Document Maltego workflow and findings
-- [ ] Add/commit Maltego screenshots
-- [x] Complete Zenmap practical work
-- [ ] Add Zenmap evidence
-- [x] Complete final report
-- [ ] Publish final LinkedIn post
