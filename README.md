@@ -83,7 +83,7 @@ To understand network reconnaissance and service discovery using Zenmap/Nmap aga
 
 ### Work Completed
 
-> This section will be updated with the actual scan configuration, results, screenshots, and observations after completing the practical exercise.
+The Zenmap practical has been completed. The module documentation records the lab network information, methodology, and evidence requirements.
 
 ### Evidence
 
@@ -116,7 +116,7 @@ It will include:
 - Security and ethical considerations
 - Conclusion
 
-The completed report will be added to the `Report/` directory.
+The completed report covering both selected modules is available in the `Report/` directory.
 
 ---
 
@@ -161,7 +161,7 @@ No unauthorized systems should be targeted using the techniques or tools documen
 - [x] Complete Maltego practical work
 - [x] Document Maltego workflow and findings
 - [ ] Add/commit Maltego screenshots
-- [ ] Complete Zenmap practical work
+- [x] Complete Zenmap practical work
 - [ ] Add Zenmap evidence
-- [ ] Complete final report
+- [x] Complete final report
 - [ ] Publish final LinkedIn post
