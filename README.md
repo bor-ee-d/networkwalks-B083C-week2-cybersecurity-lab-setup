@@ -53,7 +53,15 @@ To gain practical experience with Maltego for authorized footprinting and inform
 
 ### Work Completed
 
-> This section will be updated with the exact workflow, transformations, findings, and screenshots after completing the practical exercise.
+The Maltego practical exercise has been completed using the authorized target **`networkwalks.com`**.
+
+The workflow included:
+
+1. Using `networkwalks.com` as the starting domain.
+2. Working with the **Email Address** entity.
+3. Running the **To Emails @domain [Search Engine]** transform.
+4. Successfully retrieving email-address entities in the Maltego graph.
+5. Reviewing the returned relationships and results as part of the footprinting exercise.
 
 ### Evidence
 
@@ -150,8 +158,9 @@ No unauthorized systems should be targeted using the techniques or tools documen
 
 - [x] Repository created
 - [x] Week 2 repository structure prepared
-- [ ] Complete Maltego practical work
-- [ ] Add Maltego evidence
+- [x] Complete Maltego practical work
+- [x] Document Maltego workflow and findings
+- [ ] Add/commit Maltego screenshots
 - [ ] Complete Zenmap practical work
 - [ ] Add Zenmap evidence
 - [ ] Complete final report
