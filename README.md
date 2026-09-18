@@ -62,12 +62,18 @@ The workflow included:
 3. Running the **To Emails @domain [Search Engine]** transform.
 4. Successfully retrieving email-address entities in the Maltego graph.
 5. Reviewing the returned relationships and results as part of the footprinting exercise.
+6. Tried running **To Emails @Address [Search Engine]** transform.
 
 ### Evidence
 
 Screenshots and supporting evidence will be added under:
 
-`Maltego-Footprinting/screenshots/`
+<img width="2594" height="1622" alt="Screenshot 2026-09-18 163534" src="https://github.com/user-attachments/assets/01742d39-570f-4b6a-87aa-d5a9649a7c4b" />
+<img width="2618" height="1632" alt="Screenshot 2026-09-18 163845" src="https://github.com/user-attachments/assets/c31ba472-a70c-4bf9-a78f-5ba0b780e281" />
+<img width="2598" height="1620" alt="Screenshot 2026-09-18 164237" src="https://github.com/user-attachments/assets/7e172eda-b5b0-4b34-889c-b7f8546b41c4" />
+<img width="2586" height="1606" alt="Screenshot 2026-09-18 165242" src="https://github.com/user-attachments/assets/4abcc010-f9cd-44c2-bad0-39ed2c574783" />
+<img width="1368" height="1354" alt="Screenshot 2026-09-18 174333" src="https://github.com/user-attachments/assets/c2fcd155-84a5-4939-a452-c1881b96fbda" />
+<img width="2580" height="1552" alt="Screenshot 2026-09-18 165714" src="https://github.com/user-attachments/assets/0f449051-0a0a-4010-b953-54851adfe87e" />
 
 ### Key Learning
 
