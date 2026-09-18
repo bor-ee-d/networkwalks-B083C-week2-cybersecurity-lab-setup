@@ -2,48 +2,51 @@
 
 ## Objective
 
-Document the authorized Maltego footprinting exercise completed for the Networkwalks B083C Week 2 internship project.
+Perform and document an authorized OSINT/footprinting exercise using Maltego as part of the Networkwalks B083C Week 2 cybersecurity internship.
+
+## Target
+
+- **Authorized target:** `networkwalks.com`
+- **Starting entity:** Domain
+- **Focus:** Email-address footprinting
 
 ## Methodology
 
-The practical exercise used Maltego for OSINT-focused footprinting against the authorized target **networkwalks.com**.
-
-### Steps Performed
-
 1. Opened Maltego in the cybersecurity lab environment.
-2. Used `networkwalks.com` as the starting domain.
-3. Used the **Email Address** entity for the investigation.
-4. Ran the **To Emails @domain [Search Engine]** transform.
-5. The transform completed successfully and returned email-address entities in the Maltego graph.
-6. Reviewed the returned entities as part of the footprinting exercise.
+2. Created a new graph and added the `networkwalks.com` domain.
+3. Selected the **Email Address** entity/transform path.
+4. Ran **To Emails @domain [Search Engine]**.
+5. The transform completed successfully.
+6. The returned email-address entities were displayed in the Maltego graph and reviewed as footprinting results.
+
+> **Note:** The `@` in the Transform name is part of the Transform label; it is not a separate symbol that Maltego is required to add to the graph.
 
 ## Findings
 
-The completed transform returned email-address entities associated with `networkwalks.com`.
+The Email Address Transform returned email-related entities associated with the authorized `networkwalks.com` domain.
 
-The results demonstrate how Maltego can correlate publicly available information into related entities for OSINT and footprinting analysis.
+This demonstrates how Maltego can use graph-based relationships to connect a domain with publicly indexed email information.
 
 ## Evidence
 
-Supporting screenshots should be placed in:
+Store practical screenshots in:
 
 `screenshots/`
 
 Recommended evidence:
-- Maltego graph showing the `networkwalks.com` target.
-- Email Address entities returned by the **To Emails @domain [Search Engine]** transform.
+- Starting graph containing `networkwalks.com`.
+- Transform selection/run.
+- Final graph showing the returned Email Address entities.
+- Transform Output showing successful completion.
 
-## Key Learning
+## Key Learning Outcomes
 
-This exercise provided practical experience with:
-- Starting an OSINT investigation from a domain.
-- Using Maltego entities and transforms.
-- Discovering relationships between a target domain and publicly indexed email information.
-- Interpreting graph-based results.
-- Keeping footprinting activity within an authorized educational environment.
+- Started an OSINT investigation from a domain entity.
+- Used Maltego entities and Transforms.
+- Performed email-address footprinting.
+- Interpreted graph-based relationships and returned entities.
+- Practised documenting OSINT activity in an authorized training environment.
 
 ## Security & Ethical Considerations
 
-This exercise was performed for authorized cybersecurity training.
-
-Footprinting and OSINT techniques should only be used against domains, systems, or organizations where explicit authorization has been provided. Sensitive information, credentials, private data, or information from unauthorized targets should not be collected or published.
+This exercise was performed for authorized cybersecurity training. Footprinting and OSINT techniques should only be used against systems, domains, or organizations where appropriate authorization has been provided. Sensitive information, credentials, private data, or information from unauthorized targets should not be collected or published.
